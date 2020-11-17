@@ -6,8 +6,6 @@ import Player from './Player';
 const Dashboard = () => {
   return (
     <Fragment>
-      <BookList />
-      <BookForm />
       <Player />
     </Fragment>
     
